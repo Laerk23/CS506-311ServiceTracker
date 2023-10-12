@@ -18,14 +18,11 @@
 
 ### Laerk Ndreko
 1. What have I worked on?
-
-   I worked with Gersian on analyzing data and went in further detail on columns and data. 
+   1. I worked with Gersian on analyzing data and went in further detail on columns and data. 
 3. What will I be working on next?
-
-   I will be working on the draft presentation next along with my group.
+   1. I will be working on the draft presentation next along with my group.
 5. Have I run into any issues? Do I need help?
-
-   I've had trouble still using pandas as I am still new to it. However, I am learning it as I go.
+   1. I've had trouble still using pandas as I am still new to it. However, I am learning it as I go.
 
 ### Gersian Collaku
 1. What have I worked on?
