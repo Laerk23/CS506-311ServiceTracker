@@ -17,9 +17,9 @@
 3. Have I run into any issues? Do I need help?
 
 ### Gersian Collaku
-1. What have I worked on?
-2. What will I be working on next?
-3. Have I run into any issues? Do I need help?
+1. What have I worked on? I have started making the draft presentation and also continuing to learn about pandas and figuring out which questions to answer with the data we have gathered.
+2. What will I be working on next? Split writing code to describe columns further.
+3. Have I run into any issues? Do I need help? No not so far, primarily learning and trying to apply what I'm learning. 
 
 ### Rohan Anand
 1. What have I worked on?
