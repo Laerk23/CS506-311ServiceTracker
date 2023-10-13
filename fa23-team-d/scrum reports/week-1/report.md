@@ -2,9 +2,13 @@
 
 ### Raul-Fikrat Azizli
 1. What have I worked on?
+   1. Working on some of the base questions. Assigning tasks so everybody on the team contributes. 
 2. What will I be working on next?
+   1. Answer the last 3-4 base questions.
 3. Have I run into any issues? Do I need help?
+   1. Fortunately, no. No help needed.
 4. Team Lead: Have I talked to the client recently? When are we meeting with them next?
+   1. Given that we are not meeting client any time recently, the answer would be no. However, given the case, I have talked to our TPM last Friday, planning to have check-ups every Friday.
 
 ### Mahdi Khemakhem
 1. What have I worked on?
