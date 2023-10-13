@@ -34,5 +34,8 @@
 
 ### Rohan Anand
 1. What have I worked on?
+   I have worked on cleaning the original dataset
 2. What will I be working on next?
+   I will be working on answering the first 3 base questions 
 3. Have I run into any issues? Do I need help?
+   No issues, no help
