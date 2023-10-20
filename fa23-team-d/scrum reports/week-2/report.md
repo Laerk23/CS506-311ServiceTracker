@@ -16,9 +16,9 @@
 3. Have I run into any issues? Do I need help? None so far.
 
 ### Laerk Ndreko
-1. What have I worked on?
-2. What will I be working on next?
-3. Have I run into any issues? Do I need help?
+1. What have I worked on? Analyzing and plotting data in my notebook with Gersian.
+2. What will I be working on next? Continuing preliminary analysis in the notebook.
+3. Have I run into any issues? Do I need help? No, my teammates have helped me.
 
 ### Gersian Collaku
 1. What have I worked on?
