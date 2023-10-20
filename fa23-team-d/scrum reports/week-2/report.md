@@ -11,9 +11,9 @@
 
 
 ### Mahdi Khemakhem
-1. What have I worked on?
-2. What will I be working on next?
-3. Have I run into any issues? Do I need help?
+1. What have I worked on? Setting up a daily Azure Function to pull data from the API and append it to the PowerBI push dataset.
+2. What will I be working on next? Building the PowerBI report on  the push dataset.
+3. Have I run into any issues? Do I need help? None so far.
 
 ### Laerk Ndreko
 1. What have I worked on?
