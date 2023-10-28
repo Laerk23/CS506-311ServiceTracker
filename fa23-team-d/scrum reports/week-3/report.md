@@ -2,9 +2,9 @@
 # Week-1 Scrum Report
 
 ### Raul-Fikrat Azizli
-1. What have I worked on?
-2. What will I be working on next?
-3. Have I run into any issues? Do I need help?
+1. What have I worked on? Polished base questions and finished interactivity.
+2. What will I be working on next? Add notebooks to repo and start analyzing extension projects.
+3. Have I run into any issues? Do I need help? Nothing for now.
 
 
 ### Mahdi Khemakhem
@@ -33,6 +33,6 @@
 5. Have I run into any issues? Do I need help? Not right now.
 
 ### Rohan Anand
-1. What have I worked on?
-2. What will I be working on next?
-3. Have I run into any issues? Do I need help?
+1. What have I worked on? Helped Raul with converting notebooks to more interactive form.
+2. What will I be working on next? Analyze extension projects and pick one.
+3. Have I run into any issues? Do I need help? No problems.
