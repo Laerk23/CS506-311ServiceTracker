@@ -1,9 +1,9 @@
 # Preliminary Analysis
 
-![311graph1](https://github.com/BU-Spark/ds-boston-311-tracker/assets/126114871/36878e1e-d584-467f-9f9e-9828fc74636e)
-![311graph2](https://github.com/BU-Spark/ds-boston-311-tracker/assets/126114871/c95910ba-aa2a-48ef-baa2-f1f79bf96a8e)
-![311graph3](https://github.com/BU-Spark/ds-boston-311-tracker/assets/126114871/0349fbad-0b4c-485f-ae48-0127cefc90e4)
-![311graph4](https://github.com/BU-Spark/ds-boston-311-tracker/assets/126114871/97d3560f-53d4-4d5f-8ab1-bcc135067e0f)
+![311graph1](graphs/311graph1.png)
+![311graph2](graphs/311graph2.png)
+![311graph3](graphs/311graph3.png)
+![311graph4](graphs/311graph4.png)
 
 # Base Questions
 
