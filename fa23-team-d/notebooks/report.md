@@ -1,12 +1,3 @@
-# Preliminary Analysis
-
-![311graph1](graphs/311graph1.png)
-![311graph2](graphs/311graph2.png)
-![311graph3](graphs/311graph3.png)
-![311graph4](graphs/311graph4.png)
-
-# Base Questions
-
 ## Some Prior Information
 
 Since the entries in data are incosistent and we had to modify a few things
@@ -60,6 +51,14 @@ PowerBI work was done by a different memeber, and some slight differences in dat
 
 ![](graphs/volume_by_source.png)
 
+## Yearly Volume By Source
+
+![](graphs/311graph1.png)
+
+## What correlation does Zip Code and Source carry?
+
+![](graphs/311graph2.png)
+
 ## What is the average # of daily contacts by year?
 
 ![](graphs/yearly_day_average.png)
@@ -68,6 +67,11 @@ PowerBI work was done by a different memeber, and some slight differences in dat
 
 ![](graphs/top_5_type.png)
 
+## Volume of top 5 by Zip Code
+
+![](graphs/311graph4.png)
+
+
 ## Average goal resolution time by QUEUE
 
 ![](graphs/average_resolution_time_queue.png)
@@ -75,6 +79,10 @@ PowerBI work was done by a different memeber, and some slight differences in dat
 ## Average goal resolution time by QUEUE and neighborhood
 
 ![](graphs/average_resolution_time_queue_and_neighborhood.png)
+
+## Average goal resolution time by Zip Code
+
+![](graphs/311graph3.png)
 
 ## What % of service requests are closed (CLOSED_DT or CASE_STATUS) vs. no data (CASE_STATUS = null) vs. unresolved (CASE_STATUS = open)?
 
