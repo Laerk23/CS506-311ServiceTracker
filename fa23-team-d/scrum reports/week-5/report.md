@@ -17,9 +17,9 @@
 3. Have I run into any issues? Do I need help?
 
 ### Gersian Collaku
-1. What have I worked on?
-2. What will I be working on next?
-3. Have I run into any issues? Do I need help? 
+1. What have I worked on? So far as a group we analyzed all the extension promts and trying to decide on one.
+2. What will I be working on next? Next, Laerk, Rohan, and I will prepare for the checkpoint deliverable.
+3. Have I run into any issues? Do I need help? No, I am okay for now.
 
 ### Rohan Anand
 1. What have I worked on?
