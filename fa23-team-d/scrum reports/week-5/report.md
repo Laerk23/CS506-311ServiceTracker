@@ -7,9 +7,9 @@
 3. Have I run into any issues?Do I need help? No issues, no help.
 
 ### Mahdi Khemakhem
-1. What have I worked on? 
-2. What will I be working on next?
-3. Have I run into any issues? Do I need help?
+1. What have I worked on? Analyzed and picked an extension project with Raul
+2. What will I be working on next? Study extension and add slides for Checkpoint A.
+3. Have I run into any issues? Do I need help? Everything fine, no issues.
    
 ### Laerk Ndreko
 1. What have I worked on? I've worked on analyzing and choosing an extension.
