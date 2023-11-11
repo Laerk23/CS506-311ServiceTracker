@@ -22,6 +22,6 @@
 3. Have I run into any issues? Do I need help? No, I am okay for now.
 
 ### Rohan Anand
-1. Tentaively working on 3rd extension question. 
-2. Laerk, Gersian and I will be working on it.
-3. No, no.
+1. What have I worked on? Tentaively working on 3rd extension question. 
+2. What will I be working on next? Laerk, Gersian and I will be working on it.
+3. Have I run into any issues? No, no.
