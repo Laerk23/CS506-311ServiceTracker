@@ -23,5 +23,8 @@
 
 ### Rohan Anand
 1. What have I worked on?
-2. What will I be working on next?
-3. Have I run into any issues? No, no.
+   Making graphs for the extension project - rates of closure by neighborhood, district etc.
+3. What will I be working on next?
+   Continue to finish the graphs
+5. Have I run into any issues? Do I need help?
+   No, no.
