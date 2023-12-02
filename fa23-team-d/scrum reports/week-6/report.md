@@ -2,8 +2,8 @@
 # Week-1 Scrum Report
 
 ### Raul-Fikrat Azizli
-1. What have I worked on?
-2. What will I be working on next? 
+1. What have I worked on? Worked on extension and analyzed the datasets for possible ML implementations.
+2. What will I be working on next? Work on the extension and prepare for deliverable.
 3. Have I run into any issues? Do I need help? No issues, no help.
 
 ### Mahdi Khemakhem
