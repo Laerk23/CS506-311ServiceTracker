@@ -139,7 +139,7 @@ We found that Urban Safety and Maintenance had the highest average resolution ti
 ### Extension 1:
 1) [Notebook (Neighborhood Predictor)](notebooks/models/neighborhood_predicter/model.ipynb)
 2) [Notebook (Resolution Time Group Predicter)](notebooks/models/resolution_time_group_predicter/model.ipynb)
-3) [Notebook (Final Results)](nodebooks/final_notebooks/poster_notebook.ipynb)
+3) [Notebook (Final Results)](notebooks/final_notebooks/poster_notebook.ipynb)
 
 ### Extension 2: 
-1) [Notebook]()
+1) [Notebook](notebooks/final_notebooks/extension2.ipynb)
