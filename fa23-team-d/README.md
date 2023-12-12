@@ -1,5 +1,33 @@
-# Project
+## Table of Contents
+<ol>
+    <li style='font-size:32px'>
+        <a href='#project' >Project</a>
+        <ol style='font-size:20px;'>
+            <li><a href='#description'>Description</a></li>
+            <li><a href='#purpose'>Purpose</a></li>
+        </ol>
+    </li>
+    <li style='font-size:32px'>
+        <a href=''>Workflow</a>
+        <ol style='font-size:20px;'>
+            <li><a href='#step-1-data-collection'>Data Collection</a></li>
+            <li><a href='#step-2-data-cleaning'>Data Cleaning</a></li>
+            <li><a href='#step-3-base-questions'>Base Questions</a></li>
+            <li><a href='#step-4-extension-work'>Extension Work</a></li>
+        </ol>
+    </li>
+    <li style='font-size:32px'>
+        <a href='#navigating-notebooks'>Navigating Notebooks</a>
+        <ol style='font-size:20px;'>
+            <li><a href='#early-analysis'>Early Analysis<a></li>
+            <li><a href='#answers-to-base-questions'>Answers to base questions</a></li>
+            <li><a href='#extension-work'>Extension Work</a></li>
+        </ol>
+    </li>
+</ol>
+    
 
+# Project
 ## Description
 
 ### What is 311?
@@ -13,14 +41,17 @@ The purpose of this project is to create a historical database for the City of B
 
 # Workflow
 
-## Step 1:  Data Collection
+## Step 1: Data Collection
 <a href='https://data.boston.gov/dataset/311-service-requests'>311 Service Requests Dataset</a> - Dataset containing recorded requests from 2011 to 2023. ( the dataset is being updated every day)
 
 <a href='https://data.boston.gov/dataset/311-service-requests/resource/b237f352-49d1-4423-804f-b478e4f24e61'>311 Service Requests Dataset Dictionary</a> - Dictionary for the dataset that explains the columns and their meanings, additionally providing some values from the column.
 
 We downloaded all the datasets for each year and merged it to run an appropriate analysis on the whole dataset, rather than going year-by-year.
 
-## Step 2:  Data Cleaning
+<a href='https://data.boston.gov/dataset/climate-ready-boston-social-vulnerability'>Climate Ready Boston Social Vulnerability</a>
+
+
+## Step 2: Data Cleaning
 
 The dataset provided is pretty decent, however, it has its own flaws. 
 
@@ -36,7 +67,7 @@ For null values within the neighborhood column we combined them into a category 
 
 However, a lot questions that could be asked could be answered with other columns, which had nearly no null values at all.
 
-## Step 3:  Base Questions
+## Step 3: Base Questions
 
 1) What is the total volume of requests per year, or how many 311 requests is the city receiving per year?
    
@@ -54,7 +85,7 @@ However, a lot questions that could be asked could be answered with other column
    
 8) What % of service requests are closed (CLOSED_DT or CASE_STATUS) vs. no data (CASE_STATUS = null) vs. unresolved (CASE_STATUS = open)?
 
-## Step 5:  Extension Work
+## Step 4: Extension Work
 
 ### Extension 1
 
@@ -66,9 +97,24 @@ What patterns/ differences do you see between the 311 requests and service by hi
 
 #### Workflow
 
-#### Results
+Our first approach was to experiment with some Machine Learning models and see if it can pick up anything.
+
+We used the Social Vulnerability Index dataset and merged it with the original dataset. 
+
+The strategy for merging can be seen in the notebooks for the models.
+
+One of the models we decided to work with is to create a resolution_time_group_predicter.
+
+We split all the resolution times into 5 groups: daily, weekly, monthly, yearly and > yearly. Each group is the amount of time need for a task to be finished.
+
+We wanted to see whether there is a criteria that could be impactfull on the classification. However, the feature importance showed that the Social Vulnerability Index dataset had no importance.
+
+Therefore, we decided to manually go over the dataset. We revised our merging strategy, fixed some neighborhood incosistencies. Normalized SV entries using 3 different approaches.
+
+(MAHDI, 1 PARAGRAPH DESCRIBING YOUR WORK)
 
 ### Extension 2
+
 
 # Navigating Notebooks 
 ## Early analysis: 
