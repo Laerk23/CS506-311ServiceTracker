@@ -109,9 +109,12 @@ We split all the resolution times into 5 groups: daily, weekly, monthly, yearly 
 
 We wanted to see whether there is a criteria that could be impactfull on the classification. However, the feature importance showed that the Social Vulnerability Index dataset had no importance.
 
-Therefore, we decided to manually go over the dataset. We revised our merging strategy, fixed some neighborhood incosistencies. Normalized SV entries using 3 different approaches.
+Therefore, we decided to manually go over the dataset. We revised our merging strategy, fixed some neighborhood incosistencies. Normalized SV entries using 2 different approaches.
 
-(MAHDI, 1 PARAGRAPH DESCRIBING YOUR WORK)
+We summed the SVI values for the tracts within each neighborhood as ourgrouping strategy. We normalized the counts using the Area of the neighborhood, and the population count of the neighborhood. Next we ran our linear regressions individually for all the features we had available, to see their relationship with median resolution time.
+
+#### Results
+We found area and population as general, significant, and positively correlated factors with median resolution time. These results make sense as higher populations and areas indicate higher burden. We found some minority ratios (POC, Children, normalized by population) to have positive significant relationships with median resolution time, which warrants further investigation to ensure the equitability of the service. Finally, we found some minority ratios (MedIllness normalized by population) to have negative significant relationships with median resolution time, which is a positive finding indicating such areas might have some priority in service.
 
 ### Extension 2
 
