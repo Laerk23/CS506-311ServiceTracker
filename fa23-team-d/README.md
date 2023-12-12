@@ -58,6 +58,16 @@ However, a lot questions that could be asked could be answered with other column
 
 ### Extension 1
 
+#### Description
+
+Which requests are most common for census tracts defined as high social vulnerability based on the city’s social vulnerability index (note: this will take more data work because this is a geographic boundary area)
+
+What patterns/ differences do you see between the 311 requests and service by high vulnerability groups vs. the rest of Boston?
+
+#### Workflow
+
+#### Results
+
 ### Extension 2
 
 # Navigating Notebooks 
@@ -75,4 +85,5 @@ However, a lot questions that could be asked could be answered with other column
 2) [Notebook (Resolution Time Group Predicter)](notebooks/models/resolution_time_group_predicter/model.ipynb)
 3) [Notebook (Final Results)](nodebooks/final_notebooks/poster_notebook.ipynb)
 
-### Extension 2: [Notebook]()
+### Extension 2: 
+1) [Notebook]()
