@@ -70,6 +70,17 @@ What patterns/ differences do you see between the 311 requests and service by hi
 
 ### Extension 2
 
+#### Description
+
+The second extension analyzed rates of closure for the same types of requests by neighborhoods, city council districts, neighborhood services districts, and zip codes.
+
+#### Workflow
+
+We focused on reason to group similar types of requests. However, we found that there were 54 unique values in request. In order to group further, we created a column called reason_grouped to make our graphs more readable. In order to create each graph, we grouped the category of area and reason_grouped, to provide our x-axis and key, respectively, and found the mean of the resolution time in days, which became our y-axis. As a result, we were able to see for each neighborhood, district, etc. which groups of reasons had higher request times as well as the overall distribution of reason grouped across the distinct neighborhoods, districts, etc. 
+
+#### Results
+We found that Urban Safety and Maintenance had the highest average resolution time when compared to each reason_grouped across all categories and its distribution varied, meaning that some of the average resolution time in some areas were low while others were high. On the other hand, Health and Public Safety had the lowest average resolution time with a uniform distribution across all areas.
+
 # Navigating Notebooks 
 ## Early analysis: 
 1) [Notebook 1](notebooks/first_notebooks/analysis.ipynb)
